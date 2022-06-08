@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/modarwishmo/static/css/main.7e50ef11.css",
+    "main.js": "/modarwishmo/static/js/main.294302ba.js",
+    "static/media/ElGhazala.mp3": "/modarwishmo/static/media/ElGhazala.806a34a7dec7bb0070f2.mp3",
+    "static/media/me.png": "/modarwishmo/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/MCV.pdf": "/modarwishmo/static/media/MCV.cdc5d6dc1ac1984550f4.pdf",
+    "static/media/meb.jpg": "/modarwishmo/static/media/meb.839928276b844783fb03.jpg",
+    "static/media/portfolio2.jpg": "/modarwishmo/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/modarwishmo/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/modarwishmo/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/modarwishmo/index.html",
+    "main.7e50ef11.css.map": "/modarwishmo/static/css/main.7e50ef11.css.map",
+    "main.294302ba.js.map": "/modarwishmo/static/js/main.294302ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e50ef11.css",
+    "static/js/main.294302ba.js"
+  ]
+}
